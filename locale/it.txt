@@ -1,0 +1,14 @@
+#: locale=it
+
+## Media
+
+### Titolo
+panorama_80972DF8_8EFF_BE15_41D3_FD560AAECFF1.label = R0010727_20230112115618
+panorama_8231AE80_8EFF_9AF5_41AA_76AF78F26532.label = R0010777_20230112122447
+
+## Tour
+
+### Descrizione
+
+### Titolo
+tour.name = TEST_ZAC
